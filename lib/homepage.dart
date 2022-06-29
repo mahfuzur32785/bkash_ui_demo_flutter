@@ -54,6 +54,7 @@ class _HomePageState extends State<HomePage> {
                         padding: EdgeInsets.only(left: 5.0, right: 30),
                         child: CircleAvatar(
                           radius: 11,
+                          backgroundColor: Colors.pink,
                           backgroundImage: AssetImage('images/taka.png'),
                         ),
                       ),
